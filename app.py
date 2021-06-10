@@ -10,12 +10,12 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import seaborn as sns
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
 
-
-consumerKey = "gKuDU5lm0yQpSzTAmhaC4Pqr6"
-consumerSecret = "53OkakYGPvLCTOC9CC0LAmLdV0IVucBEOe5JT8S8otmDSEINSC"
-accessToken = "1355811610305040386-1QOfrs6CnEqgHR7iAtVNtjrOTBiNhy"
-accessTokenSecret = "ofK0tHyaVRkFw8iFWpRIrkglbfvDReJPFHtEigBbPg8yl"
+consumerKey = "t1afk54un3eH3RrnxrQdR6mdj"
+consumerSecret = "INrPVslC1NVkb6XWuuNj8A90zmULbUbSgKH1evaW1QDmzrfb1D"
+accessToken = "1355811610305040386-DJl0Y3iPfjO9hDUPpevGzliTjkxehn"
+accessTokenSecret = "wyee61lH1arnU9LQriZsyZBwcFvY8KiPPQfnijHZbb1T3"
 
 
 #Create the authentication object
